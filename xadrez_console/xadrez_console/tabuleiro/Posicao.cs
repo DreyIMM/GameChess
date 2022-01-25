@@ -19,7 +19,7 @@ namespace tabuleiro
         {
             return Linha 
               + ", "
-              coluna;
+              + Coluna;
         }
 
 
